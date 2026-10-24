@@ -4,4 +4,5 @@ httpx
 pycryptodome
 google-play-scraper
 protobuf-decoder
+protobuf>=4.25.0
 urllib3
